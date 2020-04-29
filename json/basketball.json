@@ -1,0 +1,104 @@
+{
+	"quiz": [
+		{
+			"round": 1,
+			"question": "Kto był 10 razy liderem strzelców NBA ?",
+			"correctAnswer": "Michael Jordan",
+			"incorrectAnswer": [
+				"Lebron James",
+				"Wilt Chamberlain",
+				"George Gervin"
+			]
+		},
+		{
+			"round": 2,
+			"question": "Na jakiej pozycji gra Marcin Gortat ?",
+			"correctAnswer": "Środkowy",
+			"incorrectAnswer": [
+				"Rozgrywający",
+				"Niski skrzydłowy",
+				"Rzucający obrońca"
+			]
+		},
+		{
+			"round": 3,
+			"question": "Jak nazywa się tytularny sponsor z Zielonej Góry ?",
+			"correctAnswer": "Stelmet",
+			"incorrectAnswer": [
+				"Zastal",
+				"Ekantor",
+				"CCC"
+			]
+		},
+		{
+			"round": 4,
+			"question": "Jaki kraj był zwycięzcą I edycji Mistrzostw Europy ?",
+			"correctAnswer": "Łotwa",
+			"incorrectAnswer": [
+				"Hiszpania",
+				"Czechosłowacja",
+				"Francja"
+			]
+		},
+		{
+			"round": 5,
+			"question": "W jakiej drużynie nie grał Paul Pierce ?",
+			"correctAnswer": "Minnesota Timberwolves",
+			"incorrectAnswer": [
+				"L.A. Clippers",
+				"Washington Wizards",
+				"Boston Celtics"
+			]
+		},
+		{
+			"round": 6,
+			"question": "Wśród 30 drużyn w NBA jedna jest z Kanady a konkretnie z ?",
+			"correctAnswer": "Toronto",
+			"incorrectAnswer": [
+				"Vancouver",
+				"Ottawy",
+				"Quebecu"
+			]
+		},
+		{
+			"round": 7,
+			"question": "Ile centymetrów miał Muggsy Bogues, najniższy zawodnik NBA ?",
+			"correctAnswer": "158 cm",
+			"incorrectAnswer": [
+				"153 cm",
+				"161 cm",
+				"170 cm"
+			]
+		},
+		{
+			"round": 8,
+			"question": "W jakiej odległości w NBA znajduje się linia za 3 punkty ?",
+			"correctAnswer": "7m 24 cm",
+			"incorrectAnswer": [
+				"6 m 90 cm",
+				"7m 63 cm",
+				"6m 10 cm"
+			]
+		},
+		{
+			"round": 9,
+			"question": "Z ilu kwart składa się mecz koszykówki ?",
+			"correctAnswer": "4",
+			"incorrectAnswer": [
+				"3",
+				"5",
+				"7"
+			]
+		},
+		{
+			"round": 10,
+			"question": "Jakiej narodowości jest Anderson Varejao ?",
+			"correctAnswer": "Brazylia",
+			"incorrectAnswer": [
+				"Portugalia",
+				"Hiszpania",
+				"Australia"
+			]
+		}
+	]
+}

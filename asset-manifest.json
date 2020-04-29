@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projekt02/static/css/main.0e0962ec.chunk.css",
+    "main.js": "/projekt02/static/js/main.e8ec7311.chunk.js",
+    "main.js.map": "/projekt02/static/js/main.e8ec7311.chunk.js.map",
+    "runtime-main.js": "/projekt02/static/js/runtime-main.40f31b0c.js",
+    "runtime-main.js.map": "/projekt02/static/js/runtime-main.40f31b0c.js.map",
+    "static/js/2.18d06d3e.chunk.js": "/projekt02/static/js/2.18d06d3e.chunk.js",
+    "static/js/2.18d06d3e.chunk.js.map": "/projekt02/static/js/2.18d06d3e.chunk.js.map",
+    "index.html": "/projekt02/index.html",
+    "precache-manifest.642188518a5e9410d9e2924dde0744e7.js": "/projekt02/precache-manifest.642188518a5e9410d9e2924dde0744e7.js",
+    "service-worker.js": "/projekt02/service-worker.js",
+    "static/css/main.0e0962ec.chunk.css.map": "/projekt02/static/css/main.0e0962ec.chunk.css.map",
+    "static/js/2.18d06d3e.chunk.js.LICENSE.txt": "/projekt02/static/js/2.18d06d3e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/projekt02/static/media/questionMark.23c0a181.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f31b0c.js",
+    "static/js/2.18d06d3e.chunk.js",
+    "static/css/main.0e0962ec.chunk.css",
+    "static/js/main.e8ec7311.chunk.js"
+  ]
+}

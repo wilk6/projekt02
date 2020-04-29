@@ -1,0 +1,104 @@
+{
+	"quiz": [
+		{
+			"round": 1,
+			"question": "Na jakiej pozycji gra Wojciech Szczęsny ?",
+			"correctAnswer": "Bramkarz",
+			"incorrectAnswer": [
+				"Lewy obrońca",
+				"Środkowy pomocnik",
+				"Napastnik"
+			]
+		},
+		{
+			"round": 2,
+			"question": "Jaki kraj reprezentował Lothar Mattheus ?",
+			"correctAnswer": "Niemcy",
+			"incorrectAnswer": [
+				"Austria",
+				"Szwajcaria",
+				"Dania"
+			]
+		},
+		{
+			"round": 3,
+			"question": "Kto nosi nr. 4 w Barcelonie ?",
+			"correctAnswer": "Ivan Rakitic",
+			"incorrectAnswer": [
+				"Samuel Umtiti",
+				"Arthur",
+				"Arturo Vidal"
+			]
+		},
+		{
+			"round": 4,
+			"question": "Kto wygrał Euro 2016 ?",
+			"correctAnswer": "Portugalia",
+			"incorrectAnswer": [
+				"Niemcy",
+				"Włochy",
+				"Hiszpania  "
+			]
+		},
+		{
+			"round": 5,
+			"question": "Kto trenował Bayern Monachium w sezonie 2011/2012 ?",
+			"correctAnswer": "Jupp Heynckes",
+			"incorrectAnswer": [
+				"Pep Guardiola",
+				"Carlo Ancelotti",
+				"Uli Hoeneß"
+			]
+		},
+		{
+			"round": 6,
+			"question": "Który klub ma najwięcej tytułów mistrza Włoch ?",
+			"correctAnswer": "Juventus Turyn",
+			"incorrectAnswer": [
+				"Inter Mediolan",
+				"AC Milan",
+				"Napoli"
+			]
+		},
+		{
+			"round": 7,
+			"question": "W którym roku został zbudowany stadion Realu Madryt ?",
+			"correctAnswer": "1947",
+			"incorrectAnswer": [
+				"1944",
+				"1950",
+				"1952"
+			]
+		},
+		{
+			"round": 8,
+			"question": "W jakim klubie ligi holenderskiej zadebiutował Arkadiusz Milik ?",
+			"correctAnswer": "Ajax Amsterdam",
+			"incorrectAnswer": [
+				"Psv Eindhoven",
+				"ADO den Haag",
+				"Feyenoord Rotterdam "
+			]
+		},
+		{
+			"round": 9,
+			"question": "W jakim klubie rozpoczął swoją seniorską karierę Cristiano Ronaldo ?",
+			"correctAnswer": "Sporting Lizbona",
+			"incorrectAnswer": [
+				"Fc Porto",
+				"Benfica Lizbona",
+				"SC Braga"
+			]
+		},
+		{
+			"round": 10,
+			"question": "W którym z klubów najwięcej rozegranych meczy ma Zlatan Ibrahimović ?",
+			"correctAnswer": "PSG",
+			"incorrectAnswer": [
+				"Ajax Amsterdam",
+				"Inter Mediolan",
+				"Juventus Turyn"
+			]
+		}
+	]
+}
